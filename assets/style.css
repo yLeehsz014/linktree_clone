@@ -174,3 +174,9 @@ a:hover {
     background-color: rgb(255, 255, 0);
     box-shadow: none;
 }
+h3{
+    position: absolute;
+    bottom: 0;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
