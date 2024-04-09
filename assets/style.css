@@ -55,12 +55,11 @@ body {
 }
 
 img {
-    margin-top: 2rem;
+    margin-top: -20.8rem;
     position: absolute;
     width: 9.5rem;
     height: 9.30rem;
     border-radius: 100%;
-    top: 0;
 }
 
 h1 {
