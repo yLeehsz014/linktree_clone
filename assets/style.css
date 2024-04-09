@@ -179,7 +179,7 @@ h3{
     bottom: 0;
     font-size: 15px;
 }
-@media only screen and (max-height: 630px) {
+@media only screen and (max-height: 300px) {
     img {
         margin-top: 3rem;
         top: 0;
